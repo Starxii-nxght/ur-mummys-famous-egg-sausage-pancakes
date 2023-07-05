@@ -1,0 +1,57 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 10px 0;
+  }
+  body {
+    background-color: #f8f8f8;
+  }
+  h1 {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  h4 {
+    font-weight: 600;
+    color: #555;
+    margin-top: 10px;
+  }
+  #camera {
+    width: 500px;
+    height: 400px;
+    border: 2px solid #ccc;
+  }
+  img {
+    width: 200px;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  .column {
+    display: inline-block;
+    padding: 10px;
+  }
